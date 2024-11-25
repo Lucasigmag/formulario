@@ -1,0 +1,15 @@
+h2.cent{
+    text-align: center;
+}
+img.tam{
+    width: 150px;
+    height: 150px;
+}
+
+h3.bro{
+    color: brown;
+}
+
+div.line{
+    display: inline-block;
+}
